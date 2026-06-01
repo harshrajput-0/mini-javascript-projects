@@ -2,9 +2,8 @@
 
 A collection of beginner-friendly JavaScript projects built using HTML, CSS, and JavaScript.
 
-This repository is continuously updated as I learn and build new projects.
 
-
+<br>
 
 ## 📌 About
 
@@ -16,7 +15,7 @@ Each project is independent and focuses on improving core web development skills
 - Basic Logic Building
 - UI Design using HTML & CSS
 
-
+<br>
 
 ## 📁 Projects
 
@@ -25,10 +24,11 @@ Projects are added gradually.
 1. Calculator 
 
 
-
+<br>
 
 ## 🚀 How to Run
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/harshrajput-0/mini-javascript-projects.git

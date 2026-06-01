@@ -2,7 +2,7 @@
 
 A simple calculator built using HTML, CSS, and JavaScript.
 
-
+<br>
 
 ## 📌 About
 
@@ -14,7 +14,7 @@ This project performs basic arithmetic operations like:
 
 It is built for learning JavaScript DOM manipulation and basic logic building.
 
-
+<br>
 
 ## 🚀 Features
 
@@ -23,7 +23,7 @@ It is built for learning JavaScript DOM manipulation and basic logic building.
 - Prevents multiple consecutive operators
 - Easy to use
 
-
+<br>
 
 ## 🛠 Technologies Used
 
@@ -31,7 +31,7 @@ It is built for learning JavaScript DOM manipulation and basic logic building.
 - CSS
 - JavaScript
 
-
+<br>
 
 ## 📷 Preview
 
