@@ -22,6 +22,8 @@ Each project is independent and focuses on improving core web development skills
 Projects are added gradually.
 
 1. Calculator 
+2. Digital Clock
+3. Quote Generator
 
 
 <br>
