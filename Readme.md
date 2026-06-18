@@ -24,6 +24,7 @@ Projects are added gradually.
 1. Calculator 
 2. Digital Clock
 3. Quote Generator
+4. Typing Text Effect
 
 
 <br>
