@@ -40,7 +40,7 @@ digital-clock/
 * CSS3
 * JavaScript (Vanilla JS)
 
-
+---
 ## How It Works
 
 The JavaScript file:
@@ -58,7 +58,7 @@ The JavaScript file:
 ```javascript
 setInterval(clock, 1000);
 ```
-
+---
 ## Screenshot
 
 
@@ -66,7 +66,7 @@ setInterval(clock, 1000);
   <img src="preview/digital-clock.png" width="250"/>
 </p>
 
-
+---
 
 ## Browser Support
 

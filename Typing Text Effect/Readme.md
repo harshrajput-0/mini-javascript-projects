@@ -150,5 +150,4 @@ This project is licensed under the MIT License.
 
 Created by Harsh.
 
-
 A beginner-friendly project for learning JavaScript animations and DOM manipulation.

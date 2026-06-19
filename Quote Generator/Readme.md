@@ -39,7 +39,7 @@ random-quote-generator/
 * JavaScript (ES6+)
 * Fetch API
 
-
+---
 ## How It Works
 
 1. The application loads and automatically requests a quote from the API.
@@ -62,7 +62,7 @@ const apiURL = "https://api.quotable.io/random";
   "author": "Winston Churchill"
 }
 ```
-
+---
 ## Screenshots
 
 <p>
@@ -71,7 +71,7 @@ const apiURL = "https://api.quotable.io/random";
   <img src="preview/quote-generator3.png" width="250"/>
 </p>
 
-
+---
 ## Browser Compatibility
 
 Supported on all modern browsers:
