@@ -86,3 +86,6 @@ This project is open-source and available under the MIT License.
 ## Author
 
 Created by Harsh.
+
+---
+A beginner-friendly project for learning JavaScript time functions and dynamic DOM updates.

@@ -25,6 +25,8 @@ Projects are added gradually.
 2. Digital Clock
 3. Quote Generator
 4. Typing Text Effect
+5. Age Calculator
+6. Progress Download Button
 
 
 <br>
